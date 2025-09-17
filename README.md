@@ -1,2 +1,2 @@
 # MAGNet-ICASSP-results
-he full, unabridged results 
+The full, unabridged results 
